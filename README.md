@@ -1,4 +1,4 @@
-#  Hearth stock Prediction Data Analysis Project
+#  Hearth Stroke Prediction Data Analysis Project
 
 ## 📌 Project Overview
 This project focuses on data analysis and exploratory data analysis (EDA) using Python.  
